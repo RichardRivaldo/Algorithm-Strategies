@@ -1,0 +1,5 @@
+ SEVEN
+   SIX
+ SEVEN+
+-------
+TWENTY

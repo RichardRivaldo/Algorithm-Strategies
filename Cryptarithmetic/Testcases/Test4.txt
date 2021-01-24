@@ -1,0 +1,4 @@
+  TILES
+PUZZLES+
+--------
+PICTURE
