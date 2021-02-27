@@ -1,0 +1,15 @@
+Lahir.
+Sekolah, Lahir.
+Kuliah, Sekolah.
+Kerja, Kuliah.
+Stres, Lahir.
+Bermain, Lahir.
+Bunuh Diri, Stres.
+Mati, Bunuh Diri, Tua.
+Nikah, Kerja.
+Beranak, Nikah.
+Gajian, Kerja.
+Anak Besar, Beranak.
+Tua, Lahir.
+Bercucu, Anak Besar.
+Sakit, Tua.
